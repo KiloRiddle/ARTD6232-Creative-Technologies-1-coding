@@ -1,0 +1,37 @@
+{
+  "modelName": "texture",
+  "name": "微信图片_20241204214923(1)",
+  "identifier": "texture:122592-9c4948cc-e350-460c-9ea5-be0453408019",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "0cf87e5dd59a3a3f527dc589b1cc9ae1",
+  "assetLocator": "textures/微信图片_20241204214923(1).jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 576,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "0cf87e5dd59a3a3f527dc589b1cc9ae1",
+      "colorCount": 14877,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 10.347621530402135,
+      "pixelsHigh": 1024,
+      "pixelsWide": 576
+    }
+  ]
+}
